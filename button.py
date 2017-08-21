@@ -7,7 +7,7 @@ from machine import Pin
 import time
 
 button=Pin(4, Pin.IN) #Tombol B
-led=Pin(15,Pin.OUT)   #Led Onboard
+led=Pin(15, Pin.OUT)   #Led Onboard
 
 while True:
   led.value(button.value())
