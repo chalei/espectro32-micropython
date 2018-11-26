@@ -6,7 +6,7 @@ pin = Pin(27, Pin.OUT)
 npix = neopixel.NeoPixel(pin, 1)
 
 def LightAll(col):
-    for pix in range(0, 3):
+    for pix in range(0, 1):
         npix[pix] = col
     npix.write()
     return
