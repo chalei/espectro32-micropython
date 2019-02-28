@@ -20,5 +20,5 @@ Espectro32 adalah sebuah mikrokontroler board berbasis esp32 yang di desain Indo
 Sebelum menggunakan sampel sampel diatas pastikan board esp32 sudah terisi dengan firmware micropython dengan mengikuti panduan di video berikut:
 https://www.youtube.com/watch?v=Yj_Lqjg1WD4
 
-Dan pastikan untuk memilih firmware esp32 bukan firmware esp8266 pada halaman berikut:
+Dan pastikan untuk memilih firmware esp32 bukan firmware esp8266 pada halaman link:
 http://micropython.org/download
